@@ -1,5 +1,3 @@
-)
-
 
 # BMI Calculator 
 
